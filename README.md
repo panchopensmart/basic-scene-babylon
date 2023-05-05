@@ -18,6 +18,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-framework - [Babylon.js (https://www.babylonjs.com/)].
