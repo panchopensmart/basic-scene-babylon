@@ -2,7 +2,7 @@
 
 ## About project
 This project is basic scene for develop 3D on web.
-Project Developed on Vue + TS (non linter)
+Project Developed on Vue + TS (without linter)
 
 ### Project setup
 ```
