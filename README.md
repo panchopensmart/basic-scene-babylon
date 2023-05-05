@@ -20,5 +20,4 @@ npm run build
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-framework [Babylon.js (https://www.babylonjs.com/)].
+framework - [Babylon.js (https://www.babylonjs.com/)].
