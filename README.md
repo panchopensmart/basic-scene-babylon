@@ -1,6 +1,10 @@
-# babylon
+# Babylon basic scene
 
-## Project setup
+## About project
+This project is basic scene for develop 3D on web.
+Project Developed on Vue + TS (non linter)
+
+### Project setup
 ```
 npm install
 ```
@@ -17,3 +21,5 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
