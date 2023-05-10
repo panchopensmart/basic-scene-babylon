@@ -1,20 +1,20 @@
 <template>
   <!-- basic scene -->
   <div class="">
-    <h3>Babylon Examples</h3>
+    <h3>Babylon Config</h3>
     <canvas></canvas>
   </div>
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import { BasicScene } from '@/BabylonExamples/BasicScene';
+import {StandartMaterials} from "@/BabylonExamples/StandartMaterials";
 
 export default defineComponent({
   name: 'BabylonExamples',
   mounted() {
       const canvas = document.querySelector('canvas')!;
-      new BasicScene(canvas);
+      new StandartMaterials(canvas);
   },
 });
 </script>
