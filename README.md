@@ -1,8 +1,10 @@
 # Babylon basic scene
 
-## About project
-This project is basic scene for develop 3D on web.
-Project Developed on Vue + TS (without linter)
+>## About project
+>This project is basic scene for develop 3D on web.
+>Project Developed on Vue + TS (without linter).
+>**Several Mash with textures** + **free camera** are integrated into the project
+> The camera is controlled by arrow buttons
 
 ### Project setup
 ```
@@ -18,3 +20,5 @@ npm run serve
 ```
 npm run build
 ```
+
+
